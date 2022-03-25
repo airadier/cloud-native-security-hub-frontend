@@ -1,4 +1,4 @@
-FROM node:12.13
+FROM node:12.22.11
 RUN mkdir -p /usr/src/nuxt-app
 WORKDIR /usr/src/nuxt-app
 
