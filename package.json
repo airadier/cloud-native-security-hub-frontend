@@ -36,7 +36,7 @@
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.1",
     "minisearch": "^2.1.1",
-    "nuxt": "^2.9.2",
+    "nuxt": "^2.13.0",
     "nuxt-webfontloader": "^1.1.0",
     "showdown": "^1.9.1",
     "vue-prismjs": "^1.2.0"
